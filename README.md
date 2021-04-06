@@ -5,6 +5,14 @@ Textbook:
 - [SLP YouTube Videos:](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 
 
+# Setup and Installation
+- You'll be able to follow along without installing Python on your computer by viewing the Jupyter notebooks in the repo. You should also be able to run all code except for lesson one using the Google Colab buttons.
+- The repository has been built for Windows computers. Some packages may be incompatible with Macs.
+- Environment setup instructions: https://www.youtube.com/watch?v=sUUWLBmj7Xc&feature=youtu.be
+- For lesson one, you will want ot use environment_nlp-course-small.yml for a fast installation.
+- Config.ini: You will need to change two lines in the config.ini file under [USER]. Change the text following "USERNAME:" to your username and "RAW_DATA:" to the file path to the raw data folder within the repository.
+
+
 # LESSONS
 
 ### 0. Configuration (Pre-work)
